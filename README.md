@@ -11,7 +11,7 @@ Curious | Data-driven | Problem Solver | Team Player
 
 ## 🧠  Tech Stack
 
-- **Languages:** Python, Java, Bash, SQL, JavaScript, Node.js, Vue
+- **Languages:** Python, Java, Bash, SQL, JavaScript, Vue
 - **Databases & BI Tools:** PostgreSQL, MySQL, BigQuery, Tableau, Looker
 - **ML & AI:** scikit-learn, TensorFlow, Transformers (Hugging Face), BERT, OpenAI API, Cursor
 - **Tools & Platforms:** Git, Jira, Confluence, Linux, VMs (Kali, Ubuntu), GCP, AWS EC2, Swagger, Postman
@@ -19,8 +19,20 @@ Curious | Data-driven | Problem Solver | Team Player
 ---
 
 ## 🚀 Featured Projects
+*You're welcome to click and explore the different projects below!*  
 
-### 🔹 [Reddit Post Emotion Analyzer][https://linkedin.com/in/maor-nezer](https://github.com/maornezer/reddit-comment-analyzer))
+### 🔹 [PPLTX - Daily KPIs ETL & Monitoring](https://github.com/maornezer12/ppltx-tutorial)  
+*Data Engineering Pipeline | Python, BigQuery, GCP*  
+
+This project is a complete data engineering training pipeline.
+It demonstrates how to create and monitor daily KPI processes on GCP, simulating a production-grade environment.
+- **ETL Layer:** Extracts, transforms, and loads daily KPIs (installs, DAU, activity) into BigQuery datasets.  
+- **Monitoring Layer:** Detects anomalies and integrity issues in KPI data.  
+- **Logs Monitoring:** Tracks ETL job health and execution consistency.  
+- **Automation:** Daily job scheduling via `crontab` and detailed logging into BigQuery.  
+
+  
+### 🔹 [Reddit Post Emotion Analyzer](https://github.com/maornezer/reddit-comment-analyzer)
 
 *Data Pipeline & NLP | Python, SQL, FastAPI, AWS*  
 - Built a data pipeline for emotion classification using advanced NLP (Hugging Face, OpenAI API) with prompt engineering.
