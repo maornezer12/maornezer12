@@ -30,7 +30,7 @@ It demonstrates how to create and monitor daily KPI processes on GCP, simulating
 - **Monitoring Layer:** Detects anomalies and integrity issues in KPI data.  
 - **Logs Monitoring:** Tracks ETL job health and execution consistency.  
 - **Automation:** Daily job scheduling via `crontab` and detailed logging into BigQuery.  
-
+---
   
 ### 🔹 [Reddit Post Emotion Analyzer](https://github.com/maornezer/reddit-comment-analyzer)
 
