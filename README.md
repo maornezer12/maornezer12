@@ -21,15 +21,16 @@ Curious | Data-driven | Problem Solver | Team Player
 ## 🚀 Featured Projects
 *You're welcome to click and explore the different projects below!*  
 
-### 🔹 [PPLTX - Daily KPIs ETL & Monitoring](https://github.com/maornezer12/ppltx-tutorial)  
-*Data Engineering Pipeline | Python, BigQuery, GCP*  
 
-This project is a complete data engineering training pipeline.
-It demonstrates how to create and monitor daily KPI processes on GCP, simulating a production-grade environment.
-- **ETL Layer:** Extracts, transforms, and loads daily KPIs (installs, DAU, activity) into BigQuery datasets.  
-- **Monitoring Layer:** Detects anomalies and integrity issues in KPI data.  
-- **Logs Monitoring:** Tracks ETL job health and execution consistency.  
-- **Automation:** Daily job scheduling via `crontab` and detailed logging into BigQuery.  
+### 🎮 [Gaming BI System](https://github.com/maornezer12/gaming-bi-system)  
+*Data Engineering | Python, BigQuery, GCP VM, Cron, Slack Alerts*  
+
+End-to-end **Gaming BI platform** that simulates a production-grade analytics environment on **Google Cloud VM**, automating the full data lifecycle — from ingestion to monitoring.  
+
+- **ETL Pipelines:** Built modular ETL processes for daily KPI aggregation and user behavior tracking.  
+- **Automation:** Scheduled daily runs via **`crontab`**, with full execution logs stored in **BigQuery**.  
+- **Monitoring:** Implemented health checks, anomaly detection, and table freshness validations with real-time **Slack alerts**.  
+- **Architecture:** Config-driven, reusable, and scalable structure supporting multiple datasets and ETL workflows.  
 ---
   
 ### 🔹 [Reddit Post Emotion Analyzer](https://github.com/maornezer/reddit-comment-analyzer)
